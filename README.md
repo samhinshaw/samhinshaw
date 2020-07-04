@@ -1,3 +1,5 @@
+![ships at sunset](ships-at-sunset.jpg)
+
 ### Hi there 👋
 
 - 💻 I’m currently working on: <a href="https://www.abcellera.com/technology#step-celium">Celium<sup>TM</sup><a>, a data visualization platform for [AbCellera](https://github.com/abcellera).
