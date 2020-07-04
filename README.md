@@ -1,4 +1,4 @@
-![ships at sunset](ships-at-sunset.jpg)
+![ships at sunset](https://raw.githubusercontent.com/samhinshaw/samhinshaw/master/ships-at-sunset.jpg)
 
 ### Hi there 👋
 
