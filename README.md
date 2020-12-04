@@ -5,7 +5,7 @@
 - 💻 I’m currently working on: <a href="https://www.abcellera.com/technology#step-celium">Celium<sup>TM</sup><a>, a data visualization platform for [AbCellera](https://github.com/abcellera).
 - 🌱 I’m currently learning: RxJS, Rust
 - 📫 How to reach me: [@samhinshaw](twitter.com/samhinshaw)
-- 🎮 I'm currently playing: [Civilization VI](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/), [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/)
+- 🎮 I'm currently playing: [Hades](https://store.steampowered.com/app/1145360/Hades/), [Horizon Zero Dawn](https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/)
 
 <!--
 **samhinshaw/samhinshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
